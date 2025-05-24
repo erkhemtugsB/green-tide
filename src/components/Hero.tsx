@@ -92,7 +92,7 @@ export const Hero = () => {
           <div className="relative animate-fade-in">
             <div className="relative z-10">
               <img 
-                src="/lovable-uploads/62750758-018c-43a6-985b-13a0bd4a6323.png" 
+                src="/lovable-uploads/hero.jpg" 
                 alt="Professional cleaning team in action" 
                 className="w-full h-auto rounded-2xl shadow-2xl"
               />
